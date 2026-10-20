@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "JourneyServer.aternos.me
-",
+    "ip": "JourneyServer.aternos.me",
     "port": 51085,
     "version": "1.20.1",
     "try-creative": false
